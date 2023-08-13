@@ -1,0 +1,5 @@
+{{#user}}
+Name: Naveen
+Skills: HTML, CSS, JS,Python, Java, MySQL, C, SQL
+Email: naveennayak022@gmail.com
+{{/user}}
